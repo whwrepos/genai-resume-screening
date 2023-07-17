@@ -1,0 +1,8 @@
+{
+    "name": "Python Project",
+    "image": "python:3.9-slim-buster",
+    "forwardPorts": [8888],
+    "postCreateCommand": "pip install jupyter",
+    "extensions": ["ms-python.python"]
+}
+
