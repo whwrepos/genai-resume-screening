@@ -1,5 +1,5 @@
 # genai-resume-screening
-Working example of GenAI generating job descriptions, sample resumes and profile screening for recruitment 
+Working example of GenAI generating job descriptions, sample resumes and profile screening for recruitment scenarios.
 
 Codespace container includes Jupyter Notebook, you will need to start it up using the following -
 
